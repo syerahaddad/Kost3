@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "785912380177",
+    "firebase_url": "https://kost-49c88-default-rtdb.firebaseio.com",
+    "project_id": "kost-49c88",
+    "storage_bucket": "kost-49c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785912380177:android:cf1039ce7e5ffa500aaab0",
+        "android_client_info": {
+          "package_name": "com.example.adminkost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-kpEOSvuz0yORLssXSRJUsN4WKHjdng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785912380177:android:7943d266e5e2bb640aaab0",
+        "android_client_info": {
+          "package_name": "com.example.kost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-kpEOSvuz0yORLssXSRJUsN4WKHjdng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

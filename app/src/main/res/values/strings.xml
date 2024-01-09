@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kost</string>
+    <string-array name="spUser">spUser</string-array>
+    <string-array name="room_types">
+        <item>Deluxe Room</item>
+        <item>Superior Room</item>
+        <item>Standard Room</item>
+    </string-array>
+</resources>
